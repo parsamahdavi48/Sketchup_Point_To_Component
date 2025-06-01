@@ -13,10 +13,17 @@ A SketchUp extension for converting guide points or CSV coordinates into compone
 - Select one or more **guide points**.
 - Click the toolbar icon to **place the component** at each point.
 
+![image](https://github.com/user-attachments/assets/e6809895-ef78-4d2d-b6d2-1eeeb4f72458)
+
+
 ### 2. Import Points from CSV
 - Import a `.csv` file containing `x`, `y`, and `z` columns.
 - A **small circle marker component** is placed at each point.
 - All placed instances are grouped and moved so the group origin aligns with `(0, 0, 0)`.
+![image](https://github.com/user-attachments/assets/7a10aa26-5acd-4da3-af86-b5446ebfbb11)
+
+![image](https://github.com/user-attachments/assets/15313595-a026-429e-8adf-5af3449c755b)
+
 
 ---
 
