@@ -6,7 +6,7 @@ module Parsa
     PLUGIN_PATH = File.dirname(__FILE__)
     EXTENSION = SketchupExtension.new(
       "Parsa Point to Component",
-      File.join(PLUGIN_PATH, "parsa_point_to_component", "core.rb")
+      File.join(PLUGIN_PATH, "parsa_point_to_component", "core")
     )
     EXTENSION.version     = "1.0.0"
     EXTENSION.creator     = "Parsa"
